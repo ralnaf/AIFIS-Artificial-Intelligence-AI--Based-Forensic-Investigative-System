@@ -1,0 +1,10 @@
+execCode(hostA,userA).
+execCode(hostB,userB).
+execCode(hostC,userC).
+execCode(hostD,userD).
+execCode(hostE,userE).
+execCode(hostF,userF).
+execCode(hostG,userG).
+execCode(hostH,userH).
+execCode(hostI,userI).
+execCode(hostJ,userJ).
